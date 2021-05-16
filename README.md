@@ -11,4 +11,4 @@ My technical skills include Ruby on Rails, ReactJS, NodeJS, Express, Postgres, M
 
 Let's have a nice chat!
 
-[![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tara-m-harwood)](https://github.com/anuraghazra/github-readme-stats)
+[![Tara Harwood's GitHub stats](https://github-readme-stats.vercel.app/api?username=tara-m-harwood&show_icons=true&theme=radical)](https://github.com/tara-m-harwood/github-readme-stats)
