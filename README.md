@@ -1,3 +1,6 @@
+![Tara M. Harwood, full-stack developer, tara.m.harwood@gmail.com](https://github.com/tara-m-harwood/elixa-duxworth-frontend/blob/main/public/contact%20slide.png)
+
+
 ### Hi there 👋
 
 <!--
