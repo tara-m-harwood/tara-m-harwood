@@ -10,3 +10,5 @@ I also have an interest in AI chatbots, especially ones that have jobs outside c
 My technical skills include Ruby on Rails, ReactJS, NodeJS, Express, Postgres, MySQL, Redshift, MongoDB, Python, Pandas, Django, HTML, CSS, and AIML (Artificial Intelligence Markup Language).
 
 Let's have a nice chat!
+
+[![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=tara-m-harwood)](https://github.com/anuraghazra/github-readme-stats)
